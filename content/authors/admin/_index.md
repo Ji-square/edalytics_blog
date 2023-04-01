@@ -21,7 +21,7 @@ interests:
 - Information Retrieval
 last_name: Wu
 organizations:
-- name: Stanford University
+- name: Stranford University
   url: https://www.stanford.edu/
 role: Professor of Artificial Intelligence
 social:

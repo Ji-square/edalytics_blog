@@ -216,10 +216,10 @@ sections:
     appointment_url: https://calendly.com
     autolink: true
     contact_links:
-    - icon: twitter
+    - icon: instagram
       icon_pack: fab
-      link: https://twitter.com/Twitter
-      name: DM Me
+      link: https://www.instagram.com/edalytics/
+      name: instagram
     - icon: skype
       icon_pack: fab
       link: skype:echo123?call
@@ -229,7 +229,7 @@ sections:
       link: https://zoom.com
       name: Zoom Me
     directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-    email: test@example.org
+    email: romero.mercedes.eduard@gmail.com
     form:
       formspree:
         id: null
@@ -239,7 +239,7 @@ sections:
     office_hours:
     - Monday 10:00 to 13:00
     - Wednesday 09:00 to 10:00
-    phone: 888 888 88 88
+    phone: 447365152947
     subtitle: null
     text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis
       ut magna et, vehicula efficitur enim.
